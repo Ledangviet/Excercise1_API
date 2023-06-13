@@ -1,6 +1,6 @@
-﻿namespace Excercise1_API.Models
+﻿namespace Excercise1_API.Data
 {
-    public class StudentDetailModel
+    public class Student
     {
         public int Id { get; set; }
         public string? Name { get; set; }
